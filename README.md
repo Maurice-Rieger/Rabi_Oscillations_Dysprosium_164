@@ -3,7 +3,7 @@ An interactive Notebook for calcualating the time evolution of the Zeemann suble
 
 ## Motivation
 
-We consider a two state system in a magnetic field, parallel to the $$z$$ direction. We superimpose an oscillating radio frequency (RF) field from the $$x$$ direction. In a rotating frame and taking into account the rotating wave approximation (RWA), we obtain the following Hamiltonian: 
+We consider a two state system in a magnetic field, parallel to the $z$ direction. We superimpose an oscillating radio frequency (RF) field from the $x$ direction. In a rotating frame and taking into account the rotating wave approximation (RWA), we obtain the following Hamiltonian: 
 
 $$ H = \frac{\hbar}{2} \begin{bmatrix}
 \delta & \Omega \\
